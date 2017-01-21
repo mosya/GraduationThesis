@@ -3,4 +3,4 @@
 
 なごやの卒業論文
 
-<GraduationEssay/graduationessay.pdf>
+[論文の最新版PDF](GraduationEssay/graduationessay.pdf)
