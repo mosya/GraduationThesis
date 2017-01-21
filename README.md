@@ -1,4 +1,4 @@
-# GraduationEssay
+GraduationEssay
 ================
 
 なごやの卒業論文
