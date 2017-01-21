@@ -1,2 +1,6 @@
 # GraduationEssay
-卒業論文
+=================
+
+なごやの卒業論文
+
+<GraduationEssay/graduationessay.pdf>
